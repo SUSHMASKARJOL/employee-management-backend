@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../EMS.Tests/EMS.Tests.csproj" />
+  <Project Path="EMS.API/EMS.API.csproj" />
+</Solution>
